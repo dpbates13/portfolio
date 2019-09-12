@@ -1,0 +1,17 @@
+body {
+    box-sizing: border-box;
+    text-align: center;
+    font-family: serif;
+}
+
+p {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.tech-logo {
+    
+    
+    width: 7%;
+    height: 7%; 
+}
